@@ -287,8 +287,25 @@ color: darkgray;
     body{
 
     }
+    .self{
+        padding-right: 10%;
+        margin-right: 30%;
+    }
 .main_container{
  display: grid;
+}
+.des_pics{
+    display: none;
+}
+.REFS{
+    display: grid;
+    
+}
+.ref_1{
+    padding-bottom: 100%;
+}
+.references{
+    height: 240vh;
 }
     }
     
